@@ -1,0 +1,9 @@
+{
+  "media-stream-card": {
+    "updated_at": "2019-04-26",
+    "version": "1.0.0",
+    "remote_location": "https://raw.githubusercontent.com/ljmerza/media-stream-card/master/media-stream-card.js",
+    "visit_repo": "https://github.com/ljmerza/media-stream-card",
+    "changelog": "https://github.com/ljmerza/media-stream-card/releases/latest"
+  }
+}
